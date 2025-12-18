@@ -1,0 +1,1 @@
+Please follow the instructions for building the band heater circuit carefully. It deals with mains power from the outlet, which is enough to cause injury or death. Make sure to check according to the guide.
