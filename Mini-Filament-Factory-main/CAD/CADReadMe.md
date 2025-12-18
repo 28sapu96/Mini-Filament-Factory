@@ -1,0 +1,1 @@
+Some metal parts are excluded from the CAD assembly. Refer to the guide for better instructions. The ZIP folder contains all the individual parts, I recommend opening them up in a CAD software and then individually exporting them to print.
