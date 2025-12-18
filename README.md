@@ -13,9 +13,11 @@ Journals: https://blueprint.hackclub.com/projects/3858
 5. Resistant to jamming and other mechanical flaws
 # CAD Images
 
-<img width="713" height="175" alt="image" src="https://github.com/user-attachments/assets/6bec8e14-67ca-486c-b86e-633cb6ba079d" />
-<img width="558" height="443" alt="image" src="https://github.com/user-attachments/assets/657ef22f-85f6-4038-8c4c-8da2631114a8" />
-<img width="885" height="241" alt="image" src="https://github.com/user-attachments/assets/85781fdd-3714-4e40-89df-c71ce6b5d954" />
+<img width="822" height="315" alt="image" src="https://github.com/user-attachments/assets/096066fa-ba86-4049-9503-1f263109dbfe" />
+<img width="173" height="480" alt="image" src="https://github.com/user-attachments/assets/68efaecc-c182-4a69-97db-1ae08f57696e" />
+<img width="788" height="481" alt="image" src="https://github.com/user-attachments/assets/a66111e9-ab58-42f5-95d5-aa2a7d0ab6ea" />
+<img width="788" height="481" alt="image" src="https://github.com/user-attachments/assets/686b8050-8732-42a3-958b-1a5f36a9a2eb" />
+
 
 # Building Instructions
 -README, Firmware, guide continuation after assembly
