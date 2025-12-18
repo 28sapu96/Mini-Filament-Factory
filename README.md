@@ -22,13 +22,3 @@ Journals: https://blueprint.hackclub.com/projects/3858
 # Building Instructions
 -README, Firmware, guide continuation after assembly
 
-# Temporary:
-Shopping cart photos for project review (I sent the wrong shopping cart photos for review) (Ignore the menards processing fee, since I will buy the parts in person)
-<img width="1084" height="543" alt="Screenshot 2025-12-10 224145" src="https://github.com/user-attachments/assets/f30a93eb-27c8-4229-a407-0dc8c7e57d74" />
-<img width="1065" height="490" alt="Screenshot 2025-12-10 224149" src="https://github.com/user-attachments/assets/1265c768-df5a-4497-a322-db16c3ab3397" />
-<img width="1097" height="556" alt="Screenshot 2025-12-10 224124" src="https://github.com/user-attachments/assets/f8c37a7c-76b1-4a72-8b05-8122e5361be7" />
-<img width="1071" height="598" alt="Screenshot 2025-12-10 224133" src="https://github.com/user-attachments/assets/cf7dfe13-9925-4110-b394-f95a95185e88" />
-<img width="1084" height="597" alt="Screenshot 2025-12-10 224141" src="https://github.com/user-attachments/assets/928dbf27-70bf-46f3-8fd9-9c0d1c75479f" />
-<img width="1360" height="592" alt="Screenshot 2025-12-11 172608" src="https://github.com/user-attachments/assets/2765d84b-8fb7-4641-a035-c19129729e36" />
-<img width="1360" height="594" alt="Screenshot 2025-12-11 172604" src="https://github.com/user-attachments/assets/6e301990-1ba8-458f-a06a-b24596da35f3" />
-
