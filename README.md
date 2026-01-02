@@ -18,9 +18,14 @@
   The filament doesn't come out with the diameter we need due to various factors such as die swell (molten plastic expands as it comes out of the hole), so we need to do some quality control. This is the second phase. The cooled filament strand goes into a diameter sensor. The filament passes through two roller bearings, one on the top and the other on the bottom. The one on the bottom is fixed, but the top one moves up and down with the filament diameter. The top bearing moves a lever arm, which amplifies the error by 7x. For example, if the filament is .1mm thicker than needed, the top bearing moves up .1mm, which moves the lever arm, which amplifies the distance, moving the neodymium magnet at the bottom by .7mm. The hall effect sensor picks up the motion of the magnet, and the arduino does some calculations to figure out the current filament diameter. 
   
   After the filament passes through the diameter sensor, it goes to the final phase, which is a puller. The puller also has two rollers, but only one is a bearing. The top one is a bearing that can be moved up or down by turning a small gear, which turns a larger gear with a 1:5 ratio, which turns a nut, which interfaces with a bolt at the top, moving it up or down. The bolt has a thread of 13 TPI (threads per inches), so for every 13 turns, the nut & bearing will move an inch. Spinning the small gear 5 times will turn the big gear 1 time. Spinning the big gear 1 time will move the nut by 1/13 inches, so spinning the small gear 1 time will move the nut by (1/13)/5 or 1/65 inches. The bottom roller is attached to a Nema 17 Pancake, which has just enough torque to pull the strand. The arduino controls the speed at which it pulls using the feedback from the diameter sensor. Faster pulling will thin out the filament, while slower pulling will thicken it. This process will ensure that we get accurate 1.75mm filament that can be accepted by a 3D printer.
+# Full Wiring Diagram:
+
+<img width="6000" height="3375" alt="Mini Filament Factory" src="https://github.com/user-attachments/assets/bd1f8ee1-40a6-496b-b8f0-09aa58f7051c" />
 
 # CAD Images
 
+Onshape Document: 
+https://cad.onshape.com/documents/9f9f463344dcee8ce322f606/w/9856d2d31367ce1528b75580/e/936c6a3dbc2fb8e8e5b443f2?renderMode=0&uiState=6957e5dfd13f1a02337246fd
 <img width="822" height="315" alt="image" src="https://github.com/user-attachments/assets/096066fa-ba86-4049-9503-1f263109dbfe" />
 <img width="173" height="480" alt="image" src="https://github.com/user-attachments/assets/68efaecc-c182-4a69-97db-1ae08f57696e" />
 <img width="788" height="481" alt="image" src="https://github.com/user-attachments/assets/a66111e9-ab58-42f5-95d5-aa2a7d0ab6ea" />
