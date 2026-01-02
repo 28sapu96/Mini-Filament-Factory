@@ -19,9 +19,6 @@
   
   After the filament passes through the diameter sensor, it goes to the final phase, which is a puller. The puller also has two rollers, but only one is a bearing. The top one is a bearing that can be moved up or down by turning a small gear, which turns a larger gear with a 1:5 ratio, which turns a nut, which interfaces with a bolt at the top, moving it up or down. The bolt has a thread of 13 TPI (threads per inches), so for every 13 turns, the nut & bearing will move an inch. Spinning the small gear 5 times will turn the big gear 1 time. Spinning the big gear 1 time will move the nut by 1/13 inches, so spinning the small gear 1 time will move the nut by (1/13)/5 or 1/65 inches. The bottom roller is attached to a Nema 17 Pancake, which has just enough torque to pull the strand. The arduino controls the speed at which it pulls using the feedback from the diameter sensor. Faster pulling will thin out the filament, while slower pulling will thicken it. This process will ensure that we get accurate 1.75mm filament that can be accepted by a 3D printer.
 
-# Electrical Systems
-
-
 # CAD Images
 
 <img width="822" height="315" alt="image" src="https://github.com/user-attachments/assets/096066fa-ba86-4049-9503-1f263109dbfe" />
