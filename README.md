@@ -26,10 +26,12 @@
 
 Onshape Document: 
 https://cad.onshape.com/documents/9f9f463344dcee8ce322f606/w/9856d2d31367ce1528b75580/e/936c6a3dbc2fb8e8e5b443f2?renderMode=0&uiState=6957e5dfd13f1a02337246fd
-<img width="822" height="315" alt="image" src="https://github.com/user-attachments/assets/096066fa-ba86-4049-9503-1f263109dbfe" />
-<img width="173" height="480" alt="image" src="https://github.com/user-attachments/assets/68efaecc-c182-4a69-97db-1ae08f57696e" />
-<img width="788" height="481" alt="image" src="https://github.com/user-attachments/assets/a66111e9-ab58-42f5-95d5-aa2a7d0ab6ea" />
-<img width="788" height="481" alt="image" src="https://github.com/user-attachments/assets/686b8050-8732-42a3-958b-1a5f36a9a2eb" />
+<img width="930" height="201" alt="image" src="https://github.com/user-attachments/assets/160b3309-f007-47e8-9c00-c86877290afd" />
+<img width="596" height="441" alt="image" src="https://github.com/user-attachments/assets/8cfb3a7f-6293-49c6-882f-697467c62407" />
+<img width="547" height="442" alt="image" src="https://github.com/user-attachments/assets/04f05092-4b74-4fe7-b668-8f6f6eeb3efa" />
+<img width="468" height="441" alt="image" src="https://github.com/user-attachments/assets/656d6476-6a17-406a-a879-43de24658c9b" />
+<img width="110" height="479" alt="image" src="https://github.com/user-attachments/assets/793083ac-807b-46c1-a0bf-eae1a6d1559c" />
+
 
 
 # Building Instructions
